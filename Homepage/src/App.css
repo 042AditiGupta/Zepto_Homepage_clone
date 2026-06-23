@@ -1,0 +1,43 @@
+/* Remove default browser spacing */
+html,
+body,
+#root {
+  width: 100%;
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+/* Better box model */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Images responsive by default */
+img {
+  display: block;
+  max-width: 100%;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Hide horizontal scrollbar */
+body {
+  overflow-x: hidden;
+}
+
+/* Utility class */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
