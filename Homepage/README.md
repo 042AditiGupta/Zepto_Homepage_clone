@@ -8,7 +8,7 @@ This project recreates the Zepto home screen using React, Vite, and Tailwind CSS
 
 ## Live Demo & Repo
 
-- **Live Deployment:** [add your Vercel/Netlify link here]
+- **Live Deployment:** https://zeptohomepagebyaditi.netlify.app/
 - **Source Code:**  https://github.com/042AditiGupta/Zepto_Homepage_clone
 
 ---
