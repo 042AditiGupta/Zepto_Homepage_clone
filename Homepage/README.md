@@ -26,14 +26,21 @@ This project recreates the Zepto home screen using React, Vite, and Tailwind CSS
 
 ```
 src/
-├── assets/
-├── Components/
-│   ├── Navbar/
-│   ├── Headings/
-│   ├── Category/
-│   └── Banner/
+│
+├── assets/ # Images and static assets
+│
+├── Components/ # Reusable UI components
+│ ├── Navbar/
+│ ├── Header/
+│ ├── Headings/
+│ ├── Category/
+│ ├── Banner/
+│ ├── LoginModal.jsx
+│ └── CountryCodeDropdown.jsx
+│
 ├── App.jsx
-└── main.jsx
+├── main.jsx
+└── index.css
 ```
 
 ---
