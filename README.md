@@ -21,7 +21,7 @@ This project was developed as part of a frontend assessment to demonstrate UI de
 
 - React (Vite)
 - JavaScript (ES6+)
-- HTML5 & CSS3
+- HTML5 & Tailwind CSS
 - Responsive Design Principles
 - Netlify (Deployment)
 
