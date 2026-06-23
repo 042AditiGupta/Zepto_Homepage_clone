@@ -7,12 +7,12 @@ import fruits from "../../assets/FruitsVegetables.webp";
 import dairy from "../../assets/DairyBread.webp";
 import atta from "../../assets/AttaRice.webp";
 import meat from "../../assets/MeatEgg.webp";
-import frozenFood from "../../assets/frozenFood.webp";
+import frozenFood from "../../assets/FrozenFood.webp";
 import masala from "../../assets/Masala.webp";
 import Icecream from "../../assets/Icecream.webp";
 import PackagedFood from "../../assets/PackagedFood.webp";
 import TeaCoffee from "../../assets/TeaCofee.webp";
-import Breakfast from "../../assets/BreakFast.webp";
+import Breakfast from "../../assets/Breakfast.webp";
 import Munchies from "../../assets/Munchies.webp";
 
 function CategorySection() {
